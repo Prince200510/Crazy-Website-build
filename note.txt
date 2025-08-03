@@ -1,0 +1,5 @@
+1. rfce
+2. npm install -D tailwindcss postcss autoprefixer
+3. npx tailwindcss init -p (COMPLETED MANUALLY - config files created)
+4. Created tailwind.config.js and postcss.config.js manually
+5. Created src/index.css with Tailwind directives
