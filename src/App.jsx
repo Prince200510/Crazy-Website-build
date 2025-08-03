@@ -2,8 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-8xl text-orange-600 font-bold">Welcome Prince Maurya</h1>
+    <div className="p-8">
+      <h1 className="text-8xl text-violet-300 font-bold font-circular-web">Welcome Prince Maurya</h1>
+      
     </div>
   )
 }
